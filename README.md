@@ -26,4 +26,4 @@ instalar SQLAlchemy `pip install sqlalchemy`
 
 En mi caso, al trabajar con PostgreSQL, he tenido que instalar el driver de comunicación con la base de datos: `pip install psycopg2-binary`
 
-El proyecto está desarrollado en formato .ipynb, por lo que se necesita la extensión de Jupyter para poder visualizarlo y ejecutarlo desde VS Code.
+El proyecto está desarrollado en formato `.ipynb`, por lo que se necesita la extensión de Jupyter para poder visualizarlo y ejecutarlo desde VS Code.
